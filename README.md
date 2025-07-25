@@ -176,7 +176,8 @@
 </div>
 
 <div style="height: 60px; display: flex; align-items: center; justify-content: center;">
-<p align="center">Generates <strong>efficient</strong>, <strong>scalable</strong>, and <strong>feature-rich</strong> back-end code from simple text inputs, streamlining server-side development.</p>
+<p align="center">Generates <strong>efficient</strong>, <strong>scalable</strong>, and
+<strong>feature-rich</strong> back-end code from simple text inputs, streamlining server-side development.</p>
 </div>
 
 
